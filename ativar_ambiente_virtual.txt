@@ -1,0 +1,3 @@
+#Nome do ambiente virtual: pycaret_env
+
+##conda activate pycaret_env
